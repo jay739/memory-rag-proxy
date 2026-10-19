@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .rag_cache.json
 *.log
+.pytest_cache/
+__pycache__/
