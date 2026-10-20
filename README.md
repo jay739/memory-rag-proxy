@@ -1,5 +1,9 @@
 # memory-rag-proxy
 
+<p align="center">
+  <img src="docs/logo.svg" alt="memory-rag-proxy logo" width="128" />
+</p>
+
 A single-file HTTP proxy that sits in front of multiple local LLM inference
 backends (Ollama and MLX-compatible servers) and does two things:
 
