@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="0" y="0" width="512" height="512" rx="123" ry="123" fill="#0B0D10"/>
+  <g id="icon">
+    <!-- memory note feeding in -->
+    <path d="M 88 196 H 146 L 178 228 V 300 Q 178 316 162 316 H 88 Q 72 316 72 300 V 212 Q 72 196 88 196 Z" fill="#E879F9"/>
+    <rect x="94" y="238" width="58" height="14" rx="7" fill="#0B0D10"/>
+    <rect x="94" y="266" width="44" height="14" rx="7" fill="#0B0D10"/>
+    <rect x="176" y="242" width="60" height="28" fill="#E879F9"/>
+    <!-- router splitting to primary and fallback hosts -->
+    <path d="M 256 256 L 386 150 M 256 256 L 386 362" fill="none" stroke="#E879F9" stroke-width="28" stroke-linecap="round"/>
+    <circle cx="256" cy="256" r="48" fill="#E879F9"/>
+    <rect x="348" y="102" width="88" height="88" rx="22" fill="#E879F9"/>
+    <rect x="348" y="322" width="88" height="88" rx="22" fill="#E879F9"/>
+    <!-- the host that is up -->
+    <circle cx="392" cy="146" r="17" fill="#F2F0EA"/>
+  </g>
+</svg>
